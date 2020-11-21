@@ -1,2 +1,2 @@
 # WildLogMyWild
-This repository provides easy access to releases of WildLog MyWild Edittion.
+This repository provides easy access to releases of WildLog MyWild edition.
